@@ -1,0 +1,9 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define HOTSPOT_SSID "some-wifi-hs-name-here"
+#define HOTSPOT_PWD "some-wifi-hs-pwd-here"
+#define MIC_ENDPOINT "http://192.168.11.111:3111/mic"
+#define CAMERA_ENDPOINT "http://192.168.11.111:3111/camera"
+
+#endif

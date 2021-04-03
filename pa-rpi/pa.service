@@ -1,0 +1,12 @@
+[Unit]
+Description=A Personal Assitant Service for Home
+After=network.target 
+
+[Service]
+User=pi
+ExecStart=/var/opt/pa/pa
+Restart=always
+RestartSec=60
+
+[Install]
+WantedBy=multi-user.target
