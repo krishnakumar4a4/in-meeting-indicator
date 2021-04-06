@@ -333,4 +333,4 @@ Disclaimer: Installing a third party tool like OverSight comes up with their own
 
 
 <em>Early Version: In Meeting indicator LEDs taped to the back of my external monitor</em>
-![nse-970011749336351535-1585045123.jpg](assets/nse-970011749336351535-1585045123.jpg)
+![assets/nse-970011749336351535-1585045123.jpg](assets/nse-970011749336351535-1585045123.jpg)
